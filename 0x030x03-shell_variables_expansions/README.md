@@ -1,1 +1,1 @@
-0. <o> :Create a script that creates an alias.
+0.Create a script that creates an alias.
