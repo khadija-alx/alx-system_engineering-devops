@@ -1,5 +1,2 @@
 #!/bin/bash
-Name='BEST'
-Value='School'
-echo $Name
-echo $Value
+BEST='School'
